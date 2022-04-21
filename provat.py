@@ -1,3 +1,5 @@
+from vat import vat5per, vat7per, vat15per
+
 #เรียกใช้งานคำนวณภาษี
 saleAmt = int(input('ป้อนยอดขาย'))
 
